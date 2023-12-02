@@ -1,2 +1,4 @@
-# python_exercises
-Just practicing Python 🐍 
+# Python Exercises
+### Just practicing Python 🐍 
+
+**GOAL:** 150 exercises
